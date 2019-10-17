@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.carouselWrapper {
+    position: relative; 
+    transition-property: transform;
+}
+
+.carouselPagination {
+    position: absolute;
+    bottom: 10px;
+    padding: 4px 0;
+    text-align: center;
+    z-index: 1; 
+    font-size: 0; /* 清除inline-block元素之间的间隙 */
+}
+
+.carouselPagination > span {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 100%；
+    background: #000;
+    opacity: .2;
+}
+
+.carouselPagination > span.active {
+    background: rgb(212, 68, 57);
+    opacity: 1; 
+}

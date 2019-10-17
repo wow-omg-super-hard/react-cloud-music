@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.dataLoading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.dataLoading .dataLoadingContent {
+    font-size: 13px;
+}

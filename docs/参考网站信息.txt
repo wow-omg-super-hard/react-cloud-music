@@ -1,0 +1,19 @@
+http://47.105.150.105:8010/#/recommend
+https://sanyuan0704.github.io/react-cloud-music/
+
+// 移动端的问题
+https://juejin.im/post/5d6e1899e51d453b1e478b29?utm_source=gold_browser_extension
+
+// es6
+https://juejin.im/post/5d9bf530518825427b27639d?utm_source=gold_browser_extension#heading-26
+
+// react-router底层分析
+https://segmentfault.com/a/1190000004527878
+
+在家计划
+1. 收尾云音乐项目
+2. es6，并且读完常见的语法、关键字源码
+3. 收尾preact源码分析
+4. 温习react-router源码
+5. 温习图解http协议
+6. 温习js数据结构与算法
